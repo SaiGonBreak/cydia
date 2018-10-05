@@ -1,4 +1,7 @@
-.panel {
+	body {
+		     background-image: linear-gradient(0deg, #000000 0%, #000000 100%);
+}
+    .panel {
   background: #000000;
   color: #ffffff;
 }
