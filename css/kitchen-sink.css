@@ -1,6 +1,6 @@
 .panel {
-  background: #222;
-  color: #dddddd;
+  background: #000000;
+  color: #00000;
 }
 .popover {
   width: 240px;
@@ -21,10 +21,10 @@
   height: 42px;
 }
 .statusbar-overlay {
-  background: #000;
+  background: #000000;
 }
 .statusbar-overlay.with-panel-left {
-  background: #222426;
+  background: #000000;
 }
 .statusbar-overlay.with-panel-right {
   background: #131313;
